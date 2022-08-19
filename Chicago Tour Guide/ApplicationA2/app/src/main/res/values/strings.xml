@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Application2</string>
+    <string name="attractions">View Attractions</string>
+    //Used in options menu xml file
+    <string name="restaurants">View Restaurants</string>
+    //Used in options menu xml file
+
+    <string-array name="attractionsArray">
+        <item>Willis Tower</item>
+        <item>Art Institute of Chicago</item>
+        <item>Millenium Park</item>
+        <item>Chicago River</item>
+        <item>360 Chicago Observation Deck</item>
+    </string-array>
+
+    <string-array name="restaurantsArray">
+        <item>Lula Cafe</item>
+        <item>Dear Margaret</item>
+        <item>Alla Vita</item>
+        <item>Tzuco</item>
+        <item>Galit</item>
+    </string-array>
+
+    <string-array name="attractionsWeblinkArray">
+        <item>https://www.willistower.com/</item>
+        <item>https://www.artic.edu/</item>
+        <item>https://www.chicago.gov/city/en/depts/dca/supp_info/millennium_park.html</item>
+        <item>https://www.chicagoriver.org/</item>
+        <item>https://360chicago.com/</item>
+    </string-array>
+
+    <string-array name="restaurantsWeblinkArray">
+        <item>https://www.lulacafe.com/</item>
+        <item>https://www.dearmargaretchi.com/</item>
+        <item>https://www.allavitachicago.com/reservations</item>
+        <item>https://www.tzuco.com/</item>
+        <item>https://www.galitrestaurant.com/</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
